@@ -1,1 +1,1 @@
-# economic-freedom-project
+# WORLD ECONOMIC FREEDOM PROJECT
