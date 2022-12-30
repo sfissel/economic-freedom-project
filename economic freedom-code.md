@@ -8467,7 +8467,7 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![png](graph.png)
 
 
 ## Cloropleth map of world rankings of economic freedom index
